@@ -1,5 +1,5 @@
 # testrepo
 
-##Editing the File
+##Editing the File.
 
 its a mockdown file in this repository.
